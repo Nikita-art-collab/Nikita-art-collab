@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Nikita-art-collab (Nikolay Nenov)
+- 👀 I’m interested in web development, open-source collaboration, graphic design and digital marketing.
+- 🌱 I’m currently learning JavaScript, HTML5, CSS and improving my skills in graphic design.
+- 💞️ I’m looking to collaborate on creative web projects and community-driven art initiatives.
+- 📫 How to reach me? You can reach me via email at nenovnikolai1@gmail.com or connect with me on LinkedIn: https://www.linkedin.com/in/nikolay-nenov-43b14a2a1/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I started getting interested in programming a few months ago.
